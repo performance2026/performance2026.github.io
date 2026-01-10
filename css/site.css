@@ -504,7 +504,7 @@
       font-weight: 700
     }
 
-  /*
+  
     .typeset h1,
     .typeset .alpha {
       line-height: 3rem;
@@ -793,7 +793,7 @@
       }
     }
 
-    */
+    
 
     /*====*/
 
@@ -1371,7 +1371,7 @@
       background-color: #ffc
     }
 
-    /*
+    
     .c {
       color: #999988;
       font-style: italic
@@ -1636,7 +1636,7 @@
     .il {
       color: #099
     }
-*/
+
     body {
       background: #fff;
       color: #384743;
@@ -1957,7 +1957,7 @@
       vertical-align: middle;
       width: 1.1em;
       height: 1.1em;
-      fill: CurrentColor
+      fill: currentColor
     }
 
     img {
@@ -2107,6 +2107,11 @@
       box-shadow: none;
       color: green
     }
+
+    .button--nav svg {
+  fill: currentColor;
+}
+
 
     a:focus,
     a:hover:focus,
