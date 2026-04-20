@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Performance 2026</title>
-    <link>http://localhost:1313/</link>
+    <link>https://performance2026.github.io/</link>
     <description>Recent content in Home on Performance 2026</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://performance2026.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for Papers</title>
-      <link>http://localhost:1313/call/</link>
+      <link>https://performance2026.github.io/call/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/call/</guid>
+      <guid>https://performance2026.github.io/call/</guid>
       <description>&lt;h1 id=&#34;overview&#34;&gt;OVERVIEW&lt;/h1&gt;&#xA;&lt;p&gt;The IFIP Performance 2026 conference will be held in Ghent, Belgium from 3 to 5 November 2026, and aims to bring together researchers interested in understanding and improving the performance of computing and communication systems using state-of-the-art quantitative models and solution techniques.&lt;/p&gt;&#xA;&lt;p&gt;We invite submissions of research papers focusing on algorithm design, mathematical analysis and modeling, simulation, and measurement techniques for computer systems and communication networks. We particularly welcome contributions that introduce novel performance evaluation methods or creatively apply existing techniques to predict or gain insights into key design trade-offs across a wide range of computing, networked, and cyber-physical systems. These include mobile devices, Internet-of-Things (IoT) applications, and large-scale cloud computing environments. Submissions of reproducible experiments are also encouraged.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Call for Workshops</title>
-      <link>http://localhost:1313/workshop/</link>
+      <link>https://performance2026.github.io/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshop/</guid>
+      <guid>https://performance2026.github.io/workshop/</guid>
       <description>&lt;h1 id=&#34;call-for-workshops&#34;&gt;Call for Workshops&lt;/h1&gt;&#xA;&lt;p&gt;PERFORMANCE 2026 is soliciting proposals for one-day workshops to be held in&#xA;conjunction with the conference. Workshops will take place on Thursday, 5 November 2026.&lt;/p&gt;&#xA;&lt;p&gt;We invite you to submit workshop proposals on any topic relevant to the performance&#xA;community. Topics include, but are not limited to, mathematical modelling techniques and formalisms, data-driven optimisation, machine learning and data analytics, smart grids, social networks and web services, blockchain, energy-efficient computing, quantum computing, and cyber security.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organisation</title>
-      <link>http://localhost:1313/organisation/</link>
+      <link>https://performance2026.github.io/organisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/organisation/</guid>
+      <guid>https://performance2026.github.io/organisation/</guid>
       <description>&lt;h1 id=&#34;organisation&#34;&gt;Organisation&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;General chair&lt;/strong&gt; &lt;br&gt;&#xA;Dieter Fiems, Ghent University&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TPC chairs&lt;/strong&gt; &lt;br&gt;&#xA;Esa Hyytiä, University of Iceland &lt;br&gt;&#xA;Michela Meo, Politecnico di Torino &lt;br&gt;&#xA;Y.C. Tay, National University of Singapore&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Local chair&lt;/strong&gt;&lt;br&gt;&#xA;Sabine Wittevrongel, Ghent University&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Workshop chair&lt;/strong&gt;&lt;br&gt;&#xA;Balakrishna Prabhu, LAAS, CNRS&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Publication chair&lt;/strong&gt;&lt;br&gt;&#xA;Koen De Turck, Ghent University&lt;/p&gt;&#xA;&lt;h1 id=&#34;technical-programme-committee&#34;&gt;Technical Programme Committee&lt;/h1&gt;&#xA;&lt;p&gt;Sara Alouf (INRIA)&lt;br&gt;&#xA;György Dán (KTH Royal Institute of Technology)&lt;br&gt;&#xA;Peter Počta (University of Zilina)&lt;br&gt;&#xA;Cristina L. Abad (Escuela Superior Politecnica del Litoral)&lt;br&gt;&#xA;Khushboo Agarwal (IEOR)&lt;br&gt;&#xA;Konstantin Avrachenkov (INRIA)&lt;br&gt;&#xA;Urtzi Ayesta (CNRS-IRIT and Ikerbasque-EHU)&lt;br&gt;&#xA;Sandjai Bhulai (Vrije Universiteit Amsterdam)&lt;br&gt;&#xA;Sem Borst (Eindhoven University of Systems)&lt;br&gt;&#xA;Richard Boucherie (University of Twente)&lt;br&gt;&#xA;Anton Braverman (Northwestern University)&lt;br&gt;&#xA;Valeria Cardellini (University of Roma Tor Vergata)&lt;br&gt;&#xA;Florin Ciucu (University of Warwick)&lt;br&gt;&#xA;Pieter-Tjerk de Boer (University of Twente)&lt;br&gt;&#xA;Josu Doncel (University of the Basque Country)&lt;br&gt;&#xA;Douglas Down (McMaster University)&lt;br&gt;&#xA;Zhixuan Fang (Tsinghua University)&lt;br&gt;&#xA;Andres Ferragut (Universidad ORT Uruguay)&lt;br&gt;&#xA;Christine Fricker (INRIA)&lt;br&gt;&#xA;Ayalvadi Ganesh (University of Bristol)&lt;br&gt;&#xA;Nicolas Gast (INRIA)&lt;br&gt;&#xA;Diego Goldsztajn (Uruguay ORT University)&lt;br&gt;&#xA;Leana Golubchik (USC)&lt;br&gt;&#xA;Izzy Grosof (Northwestern University)&lt;br&gt;&#xA;Qi-Ming He (University of Waterloo)&lt;br&gt;&#xA;Ting He (Pennsylvania State University)&lt;br&gt;&#xA;I-Hong Hou (Texas A&amp;amp;M University)&lt;br&gt;&#xA;Longbo Huang (Tsinghua University)&lt;br&gt;&#xA;Prakirt Raj Jhunjhunwala (Amazon.com)&lt;br&gt;&#xA;Emilio Leonardi (Politecnico di Torino)&lt;br&gt;&#xA;Lasse Leskela (Aalto University)&lt;br&gt;&#xA;Nikki Levering (CNRS)&lt;br&gt;&#xA;Qiulin Lin (City University of Hong Kong)&lt;br&gt;&#xA;Zhenhua Liu (Stony Brook University)&lt;br&gt;&#xA;Yingdong Lu (IBM Research)&lt;br&gt;&#xA;John C.S. Lui (CUHK)&lt;br&gt;&#xA;Fabio Martignon (University of Bergamo)&lt;br&gt;&#xA;Diletta Olliaro (KTH Royal Institute of Technology)&lt;br&gt;&#xA;Tuan Phung-Duc (University of Tsukuba)&lt;br&gt;&#xA;Anne Remke (University of Münster)&lt;br&gt;&#xA;Rhonda Righter (UC Berkeley)&lt;br&gt;&#xA;Ziv Scully (Cornell University)&lt;br&gt;&#xA;Mark Squillante (IBM Research)&lt;br&gt;&#xA;Raik Stolletz (University of Mannheim)&lt;br&gt;&#xA;Rajesh Sundaresan (Indian Institute of Science)&lt;br&gt;&#xA;Hans van den Berg (Twente University)&lt;br&gt;&#xA;Rob van der Mei (CWI)&lt;br&gt;&#xA;Benny van Houdt (University of Antwerp)&lt;br&gt;&#xA;Sushil Varma (University of Michigan Ann Arbor)&lt;br&gt;&#xA;Kavitha Veeraruna (IIT Bombay)&lt;br&gt;&#xA;Sabine Wittevrongel (Ghent University)&lt;br&gt;&#xA;Cathy Xia (Ohio State University)&lt;br&gt;&#xA;Jun (Jim) Xu (Georgia Institute of Technology)&lt;br&gt;&#xA;Xian Yu (The Ohio State University)&lt;br&gt;&#xA;Zhi-Li Zhang (University of Minnesota &amp;ndash; Twin Cities)&lt;br&gt;&#xA;Alessandro Zocca (Vrije Universiteit Amsterdam)&lt;br&gt;&#xA;Martin Zubeldia (University of Minnesota)\&lt;/p&gt;</description>
     </item>
     <item>
       <title>Registration</title>
-      <link>http://localhost:1313/registration/</link>
+      <link>https://performance2026.github.io/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/registration/</guid>
+      <guid>https://performance2026.github.io/registration/</guid>
       <description>&lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;&#xA;&lt;p&gt;Registration is not yet possible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Venue</title>
-      <link>http://localhost:1313/venue/</link>
+      <link>https://performance2026.github.io/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/venue/</guid>
+      <guid>https://performance2026.github.io/venue/</guid>
       <description>&lt;h1 id=&#34;venue&#34;&gt;Venue&lt;/h1&gt;&#xA;&lt;h2 id=&#34;city-of-ghent&#34;&gt;City of Ghent&lt;/h2&gt;&#xA;&lt;p&gt;Located in the heart of Flanders, Ghent is one of Belgium’s most enchanting and authentic cities — a place where the echoes of the Middle Ages meet the creativity and energy of the present. Its compact centre invites exploration on foot, with every turn revealing another postcard-perfect view. The city’s skyline is defined by the three towers of Ghent — Saint Nicholas’ Church, the Belfry, and Saint Bavo’s Cathedral — which stand proudly in line and symbolise Ghent’s rich spiritual, civic, and artistic heritage. Inside Saint Bavo’s, visitors can admire the world-renowned Adoration of the Mystic Lamb, a 15th-century altarpiece by the Van Eyck brothers that remains one of Europe’s greatest artistic treasures.&lt;/p&gt;</description>
     </item>
   </channel>
