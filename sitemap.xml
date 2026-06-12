@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://performance2026.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/call/</loc>
+    <loc>https://performance2026.github.io/call/</loc>
   </url><url>
-    <loc>http://localhost:1313/workshop/</loc>
+    <loc>https://performance2026.github.io/workshop/</loc>
   </url><url>
-    <loc>http://localhost:1313/organisation/</loc>
+    <loc>https://performance2026.github.io/organisation/</loc>
   </url><url>
-    <loc>http://localhost:1313/registration/</loc>
+    <loc>https://performance2026.github.io/registration/</loc>
   </url><url>
-    <loc>http://localhost:1313/venue/</loc>
+    <loc>https://performance2026.github.io/venue/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://performance2026.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://performance2026.github.io/tags/</loc>
   </url>
 </urlset>
