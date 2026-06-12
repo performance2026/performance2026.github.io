@@ -15,7 +15,7 @@
       <description>&lt;h1 id=&#34;overview&#34;&gt;OVERVIEW&lt;/h1&gt;&#xA;&lt;p&gt;The IFIP Performance 2026 conference will be held in Ghent, Belgium from 3 to 5 November 2026, and aims to bring together researchers interested in understanding and improving the performance of computing and communication systems using state-of-the-art quantitative models and solution techniques.&lt;/p&gt;&#xA;&lt;p&gt;We invite submissions of research papers focusing on algorithm design, mathematical analysis and modeling, simulation, and measurement techniques for computer systems and communication networks. We particularly welcome contributions that introduce novel performance evaluation methods or creatively apply existing techniques to predict or gain insights into key design trade-offs across a wide range of computing, networked, and cyber-physical systems. These include mobile devices, Internet-of-Things (IoT) applications, and large-scale cloud computing environments. Submissions of reproducible experiments are also encouraged.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Workshopss</title>
+      <title>Workshops</title>
       <link>https://performance2026.github.io/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://performance2026.github.io/workshop/</guid>
